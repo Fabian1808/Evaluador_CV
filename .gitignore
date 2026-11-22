@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+storage/
+build/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+dist/*
+!dist/CV Analyzer Pro.exe
